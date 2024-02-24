@@ -5,6 +5,8 @@ class Animal{
 
 class Pig extends Animal{
     public void animalSound(){
-        sou
+        System.out.println();
     }
+
+
 }

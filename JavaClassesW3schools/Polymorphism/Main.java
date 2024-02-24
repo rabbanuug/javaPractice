@@ -1,4 +1,4 @@
-package JavaClassesW3schools.Polymorphism;
+//package JavaClassesW3schools.Polymorphism; // face problem when tried to run code on Intellij idea
 class Animal{
     public void animalSound(){
         System.out.println("Animal makes sound");
@@ -20,6 +20,13 @@ class Cat extends Animal{
 
 class Main{
     public static void main(String[] args){
-        System.out.println("Hello");
+        Animal animal = new Animal();
+        Pig pig = new Pig();
+        Cat cat = new Cat();
+
+        animal.animalSound();
+        pig.animalSound();
+        cat.animalSound();
+        
     }
 }

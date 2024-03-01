@@ -84,8 +84,8 @@
 - TDD and JUnit
 - Build Projects
 ### Tools
-- Git and GitHub
-- Linux
+- Git & Github \
+- Linux        / - 2 weeks [less time]
 - AWS SQS, Lambda, DynamoDB, EC2 (Optional)
 - IntelliJ
 - Jenkins (Optional)

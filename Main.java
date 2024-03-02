@@ -5,10 +5,3 @@ public class Main{
     }
 }
 
-- Git & Github \
-- Linux        / - 2 weeks [less time]
-- AWS SQS, Lambda, DynamoDB, EC2 [Optional]
-- IntelliJ
-- Jenkins [Optional]
-- OOPS, SOA and Design Principles
-- Microservices, Docker and Kubernetes

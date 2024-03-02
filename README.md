@@ -2,6 +2,8 @@
 
 ### Java Basics
 
+Learn from [Programiz](https://www.programiz.com/java-programming), [W3Schools](https://www.w3schools.com/java/default.asp), [GFG](https://www.geeksforgeeks.org/java) {After completing below plan, then I'll revise form these links}
+
 - Variable/Data Types
 - Conditional Statements
 - Loops - for, while, do-while, for-each, labeled, break, continue, nested

@@ -13,14 +13,29 @@ public class Arrays{
         int[] prices = new int[10];
 
         Scanner cin = new Scanner(System.in);
-        for(int i: prices){ // not working this way of input
-            i = cin.nextInt();
-        }
-        // for(int i = 0; i<prices.length; ++i){
-        //     prices[i] = cin.nextInt();
+        // for(int i: prices){ // not working this way of input
+        //     i = cin.nextInt();
         // }
+        for(int i = 0; i<prices.length; ++i){
+            prices[i] = cin.nextInt();
+        }
         for(int i : prices){
             System.out.print(i + ", ");
         }
+        System.out.println();
+        //reverse order
+        for(int i = prices.length-1; i>=0; --i){
+            System.out.print(prices[i]+", ");
+        }
+        System.out.println();
+
+        //present on even or odd position
+        for(int i = 0; i<prices.length; i++){
+            if(i%2==0) System.out.print(prices[i]+", ");
+        }
+
+        
+
+
     }
 }

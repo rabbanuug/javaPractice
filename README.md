@@ -22,36 +22,36 @@
 - return type
 - RT with parameters
 - Non-RT with parameters
-
 - Arrays : 1D, 2D.
 - Travel, [X] Print, [X] Declare, [X] Input
-  - print the elements of an array in reverse order
-  - print the elements of an array present on even position
-  - print the elements of an array present on odd position
-  - print the largest element in an array
-  - print the smallest element in an array
-  - print the number of elements present in an array
-  - print the sum of all the items of the array
-  - sort the elements of an array in ascending order
-  - Print Odd and Even Numbers from an array
-  - Find Duplicates Numbers in an array
 
+  1. print the elements of an array in reverse order
+  2. print the elements of an array present on even position
+  3. print the elements of an array present on odd position
+  4. print the largest element in an array
+  5. print the smallest element in an array
+  6. print the number of elements present in an array
+  7. print the sum of all the items of the array
+  8. sort the elements of an array in ascending order
+  9. Print Odd and Even Numbers from an array
+  10. Find Duplicates Numbers in an array
 - ArrayList
 - Strings
-  - count the total number of characters in a string
-  - count the total number of vowels and consonants in a string
-  - replace lower-case characters with upper-case and vice-versa
-  - determine whether two strings are the anagram
-  - find all subsets of a string
-  - remove all the white spaces from a string
-  - replace the spaces of a string with a specific character
-  - Reverse of the string
-  - determine whether a given string is palindrome
-  - swap two string variables without using third or temp variable
 
+  1. count the total number of characters in a string
+  1. count the total number of vowels and consonants in a string
+  1. replace lower-case characters with upper-case and vice-versa
+  1. determine whether two strings are the anagram
+  1. find all subsets of a string
+  1. remove all the white spaces from a string
+  1. replace the spaces of a string with a specific character
+  1. Reverse of the string
+  1. determine whether a given string is palindrome
+  1. swap two string variables without using third or temp variable
 - Exception Handling
 
 #### OOPs and Collections
+
 - Four pillars of OOPs : `Encapsulation`, `Abstraction`, `Inheritance`, `Polymorphism`
 - Generics
 - Collections Framework : `List`, `Set`, `Map`, `Queue`, `Stack`, `Vector`, `Dictionary`, `Hashtable`, `Properties`, `Collections`

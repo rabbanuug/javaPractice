@@ -6,15 +6,15 @@
 - Conditional Statements
 - Loops - for, while, do-while, for-each, labeled, break, continue, nested
 
-#### Practice
+#### Practice : Loop
 
-- [ ]  Swapping two numbers
+- [X]  Swapping two numbers
+- [X]  Odd no. find
 - [X]  Even numbers find
-- [ ]  Prime numbers find
-- [ ]  Factorial of a number
+- [X]  Prime numbers find
+- [X]  Factorial of a number
 - [ ]  Print of seperate Digits
-- [ ]  Odd no. find
-- [ ]  Fibonacci series
+- [X]  Fibonacci series
 
 #### Methods
 
@@ -24,7 +24,7 @@
 - Non-RT with parameters
 
 - Arrays : 1D, 2D.
-- Travel, Print, Declare, Input
+- Travel, [X] Print, [X] Declare, [X] Input
   - print the elements of an array in reverse order
   - print the elements of an array present on even position
   - print the elements of an array present on odd position

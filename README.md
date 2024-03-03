@@ -30,12 +30,12 @@ Learn from [Programiz](https://www.programiz.com/java-programming), [W3Schools](
   1. [X]  print the elements of an array in reverse order
   2. [X]  print the elements of an array present on even position
   3. [X]  print the elements of an array present on odd position
-  4. [ ]  print the largest element in an array
-  5. [ ]  print the smallest element in an array
+  4. [X]  print the largest element in an array
+  5. [X]  print the smallest element in an array
   6. [ ]  print the number of elements present in an array
-  7. [ ]  print the sum of all the items of the array
+  7. [X]  print the sum of all the items of the array
   8. [ ]  sort the elements of an array in ascending order
-  9. [ ]  Print Odd and Even Numbers from an array
+  9. [X]  Print Odd and Even Numbers from an array
   10. [ ]  Find Duplicates Numbers in an array
 - ArrayList
 - Strings

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 
 public class Arrays{
 
@@ -32,9 +33,32 @@ public class Arrays{
         //present on even or odd position
         for(int i = 0; i<prices.length; i++){
             if(i%2==0) System.out.print(prices[i]+", ");
-        }
+        } System.out.println();
 
+        //print largest/smallest element
+        Random r = new Random();
+        for(int i = 0; i<prices.length; ++i){
+            prices[i] = r.nextInt(100);
+        }
+        for(int i: prices){
+            System.out.print(i +", ");
+        }
+        System.out.println();
+        int mx = 0;
+        for(int i: prices) if(i>mx) mx = i;
+        System.out.println(mx);
+
+        //sum of all items
+        int sum = 0;
+        for(int i : prices) sum += i;
+        System.out.println(sum);
+
+        //print odd, even numbers
+        for(int i= 0; i<prices.length; ++i){
+            if(prices[i]%2 == 0) System.out.print(prices[i]+", ");
+        }
         
+
 
 
     }
